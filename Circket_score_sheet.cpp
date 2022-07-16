@@ -34,7 +34,7 @@ public:
 };
 int main()
 {
-    int jb = 0;
+    int jb = 1;
     scorecard s1;
     int kb;
     s1.menu();
